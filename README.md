@@ -78,4 +78,4 @@ The goal of this project was to learn steering behavior directly from visual inp
 
 ## 👤 Author
 **Kejdi Alushaj**  
-MSc Next Level Engineering (NLE), The Hague University of Applied Sciences
+
